@@ -1,0 +1,16 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\bin\Debug\Prime Number.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\bin\Debug\Prime Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\bin\Debug\Prime Number.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\obj\Debug\Prime Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\obj\Debug\Prime Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\Prime Number\Prime Number\obj\Debug\Prime Number.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\bin\Debug\Prime Number.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\bin\Debug\Prime Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\bin\Debug\Prime Number.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\obj\Debug\Prime Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\obj\Debug\Prime Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC3-Prime Number\Prime Number\obj\Debug\Prime Number.pdb
