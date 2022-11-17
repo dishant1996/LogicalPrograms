@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\bin\Debug\UC4-Reverse number.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\bin\Debug\UC4-Reverse number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\bin\Debug\UC4-Reverse number.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\obj\Debug\UC4-Reverse number.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\obj\Debug\UC4-Reverse number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\obj\Debug\UC4-Reverse number.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\obj\Debug\UC4-Reverse number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC4-Reverse number\UC4-Reverse number\obj\Debug\UC4-Reverse number.pdb
