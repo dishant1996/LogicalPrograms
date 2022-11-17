@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\bin\Debug\UC2-Perfect Number.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\bin\Debug\UC2-Perfect Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\bin\Debug\UC2-Perfect Number.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\obj\Debug\UC2-Perfect Number.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\obj\Debug\UC2-Perfect Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\obj\Debug\UC2-Perfect Number.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\obj\Debug\UC2-Perfect Number.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC2-Perfect Number\UC2-Perfect Number\obj\Debug\UC2-Perfect Number.pdb
