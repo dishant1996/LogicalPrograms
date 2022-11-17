@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\obj\Debug\UC6-Simulate Stopwatch Program.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\obj\Debug\UC6-Simulate Stopwatch Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\obj\Debug\UC6-Simulate Stopwatch Program.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\bin\Debug\UC6-Simulate Stopwatch Program.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\bin\Debug\UC6-Simulate Stopwatch Program.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\bin\Debug\UC6-Simulate Stopwatch Program.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\obj\Debug\UC6-Simulate Stopwatch Program.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC6-Simulate Stopwatch Program\UC6-Simulate Stopwatch Program\obj\Debug\UC6-Simulate Stopwatch Program.pdb
