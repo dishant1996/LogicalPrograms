@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\bin\Debug\UC5-Coupon Numbers.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\bin\Debug\UC5-Coupon Numbers.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\bin\Debug\UC5-Coupon Numbers.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\obj\Debug\UC5-Coupon Numbers.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\obj\Debug\UC5-Coupon Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\obj\Debug\UC5-Coupon Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\obj\Debug\UC5-Coupon Numbers.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Logical Program\UC5-Coupon Numbers\UC5-Coupon Numbers\obj\Debug\UC5-Coupon Numbers.pdb
